@@ -3,8 +3,6 @@
  * 
  * Main driver for hello world program.
  * 
- * usage:
- * 	running in Eclipse
  */
 
 /**

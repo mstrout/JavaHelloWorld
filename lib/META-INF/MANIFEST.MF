@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: junit-jupiter-engine
+Automatic-Module-Name: org.junit.jupiter.engine
+Build-Date: 2017-11-12
+Implementation-Version: 5.0.2
+Built-By: JUnit Team
+Specification-Vendor: junit.org
+Specification-Title: junit-jupiter-engine
+Implementation-Vendor: junit.org
+Build-Revision: 3484293c2a998fd593dfe48b4901ab94f007f25f
+Build-Time: 15:01:42.896+0100
+Created-By: 1.8.0_131 (Oracle Corporation 25.131-b11)
+Specification-Version: 5.0.2
+
